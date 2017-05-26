@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/lib/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/dbcp/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/dbcp/commons-dbcp-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/dbcp/commons-pool-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/dbcp/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="lib/dbcp/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="lib/dbcp/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="lib/dist/mina-core-2.0.9.jar"/>
+	<classpathentry kind="lib" path="lib/dist/mina-example-2.0.9.jar"/>
+	<classpathentry kind="lib" path="lib/dist/mina-filter-compression-2.0.9.jar"/>
+	<classpathentry kind="lib" path="lib/dist/mina-http-2.0.9.jar"/>
+	<classpathentry kind="lib" path="lib/dist/mina-integration-beans-2.0.9.jar"/>
+	<classpathentry kind="lib" path="lib/dist/mina-integration-jmx-2.0.9.jar"/>
+	<classpathentry kind="lib" path="lib/dist/mina-integration-ognl-2.0.9.jar"/>
+	<classpathentry kind="lib" path="lib/dist/mina-integration-xbean-2.0.9.jar"/>
+	<classpathentry kind="lib" path="lib/dist/mina-statemachine-2.0.9.jar"/>
+	<classpathentry kind="lib" path="lib/dist/mina-transport-apr-2.0.9.jar"/>
+	<classpathentry kind="lib" path="lib/other/logback-classic-1.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/other/logback-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/other/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="lib/jl1.0.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_101"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
