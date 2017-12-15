@@ -22,7 +22,7 @@ public class Client {
 	private final static Logger log = LoggerFactory
 			.getLogger(Client.class);
 	private static int BUFFSIZE = 2048;
-	private static final String HOST = "119.29.190.111";  //119.29.190.111   127.0.0.1
+	private static final String HOST = "localhost";  //119.29.190.111   127.0.0.1
 	private static final int PORT = 7080;
 	IoSession session;
 	ConnectFuture connectFuture;
