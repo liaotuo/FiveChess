@@ -9,4 +9,4 @@ AWT Socket Mp3播放API
 ![效果](https://github.com/liaotuo/FiveChess/blob/master/img/%E8%BF%90%E8%A1%8C%E6%95%88%E6%9E%9C.png?raw=true)
 
 # Contact
-- E-mail: liaotuo2016@163.com
+- E-mail: liaotuo.io@qq.com
